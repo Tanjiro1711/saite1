@@ -1,0 +1,13 @@
+body { background-color: green;
+    text-align : center;
+
+
+}
+#video{
+width: 100%;
+}
+#org{
+    position:sticky;
+    top:0;
+    z-index: 99999;
+}
